@@ -10,4 +10,4 @@ function outest() {
   return outer;
 }
 let a = 100;
-outest()('Hello There')(); // 10 20 "Hello There"
+outest()('Hello There')(); 
