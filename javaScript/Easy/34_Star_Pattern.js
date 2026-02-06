@@ -12,3 +12,9 @@ function pattern(n) {
 }
 
 pattern(5)
+
+
+
+
+
+
