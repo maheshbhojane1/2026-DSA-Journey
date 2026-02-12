@@ -9,15 +9,13 @@ function frequencyLock(arr1, arr2, arr3) {
         }
     }
 
-    return [...new Set(result)]; // remove duplicates
+    return [...new Set(result)]; 
 }
 
-// Example
 console.log(frequencyLock(
     [1, 2, 3, 4],
     [2, 3, 5],
     [2, 3, 6]
 )); 
-// Output: [2, 3]
 
 
