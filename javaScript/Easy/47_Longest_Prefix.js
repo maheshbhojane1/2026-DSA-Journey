@@ -8,6 +8,7 @@ function longestCommonPrefix(strs){
         }
 
     }
+    return prefix;
 }
 
 
